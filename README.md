@@ -1,7 +1,6 @@
-<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/d2978fd9-a547-4666-8e08-b2177b7affa8" /># Design-of-FIR-Filters-using-hanning-window
-REG N0:212223060247
-#DESIGN OF FIR DIGITAL FILTER 
 
+#DESIGN OF FIR DIGITAL FILTER 
+REG N0:212223060247
 # AIM: 
           
   To generate design of low pass FIR digital filter using SCILAB 
@@ -134,7 +133,7 @@ disp('Filter Length: ' + string(N));
 # OUTPUT
 LPF
 <img width="1221" height="480" alt="image" src="https://github.com/user-attachments/assets/1ea3989f-40f7-4146-93b2-d0c433b4c284" />
-<img width="1221" height="480" alt="image" src="https://github.com/user-attachments/assets/d2f993f9-10f0-45e4-a9f9-5e90fc9be9ea" />
+<img width="1917" height="1075" alt="image" src="https://github.com/user-attachments/assets/812771d7-14c2-4378-a2c3-2f248ba93378" />
 
 HPF
 <img width="1238" height="418" alt="image" src="https://github.com/user-attachments/assets/6817b5a5-b6a2-4d9b-928e-af20e2678ca5" />
